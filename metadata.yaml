@@ -1,0 +1,50 @@
+_repo: The-Adventures-of-Roderick-Random_4085
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollett, Tobias George
+    - Smollet, T. (Tobias)
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+description: "The Adventures of Roderick Random is a picaresque novel by Tobias Smollett,\
+  \ first published in 1748. It is partially based on Smollett's experience as a naval-surgeon’s\
+  \ mate in the British Navy, especially during the Battle of Cartagena de Indias\
+  \ in 1741. In the preface, Smollett acknowledges the connections of his novel to\
+  \ the two satirical picaresque works he translated into English: Cervantes’ Don\
+  \ Quixote (1605–15) and Alain-René Lesage’s Gil Blas (1715–47)\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- Historical Fiction
+- Best Books Ever Listings
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4085'
+  wikidata: Q7712626
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Impressment -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Rogues and vagabonds -- Fiction'
+- !lcsh 'Picaresque literature'
+- !lcsh 'Scots -- England -- Fiction'
+- !lcsh 'Warships -- Fiction'
+- GITenberg
+title: The Adventures of Roderick Random
+url: http://www.gutenberg.org/ebooks/4085
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_Aventures_de_Roderick_Random
+- https://en.wikipedia.org/wiki/The_Adventures_of_Roderick_Random
+- https://commons.wikimedia.org/wiki/Category:The_Adventures_of_Roderick_Random
+- https://es.wikipedia.org/wiki/Las_aventuras_de_Roderick_Random
