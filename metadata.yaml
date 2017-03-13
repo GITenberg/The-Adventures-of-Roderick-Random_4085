@@ -1,5 +1,8 @@
 _repo: The-Adventures-of-Roderick-Random_4085
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smollett, T. (Tobias)
@@ -18,6 +21,8 @@ description: "The Adventures of Roderick Random is a picaresque novel by Tobias 
   \ the two satirical picaresque works he translated into English: Cervantes’ Don\
   \ Quixote (1605–15) and Alain-René Lesage’s Gil Blas (1715–47)\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4085#The-Adventures-of-Roderick-Random
 gutenberg_bookshelf:
 - Historical Fiction
 - Best Books Ever Listings
